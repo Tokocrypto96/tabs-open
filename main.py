@@ -3,7 +3,7 @@
 
 Writes one honest tab count, digits only, to /output/entry.txt.
 
-The count: 347. A real, lived-in hoard -- years of "I'll read this
+The count: 999. A real, lived-in hoard -- years of "I'll read this
 later" spread across windows, never closed, never counted until now.
 High enough to surprise, odd and unround enough to read as a number
 someone actually counted, and still a count a real person could
@@ -13,7 +13,7 @@ number: just the digits, exactly as the gate requires (1-5 chars).
 
 import os
 
-ENTRY = "347"
+ENTRY = "999"
 OUTPUT_PATH = "/output/entry.txt"
 
 
